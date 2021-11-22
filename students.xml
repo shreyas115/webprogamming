@@ -1,0 +1,27 @@
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<class>
+	<student>
+		<firstname>Shreyas</firstname>
+		<lastname>Prakash</lastname>
+		<cat1>11</cat1>
+		<cat2>13</cat2>
+		<fat>32</fat>
+		<total>58</total>
+	</student>
+	<student>
+		<firstname>Shravan</firstname>
+		<lastname>Prakash</lastname>
+		<cat1>12</cat1>
+		<cat2>12</cat2>
+		<fat>34</fat>
+		<total>58</total>
+	</student>
+	<student>
+		<firstname>Ram</firstname>
+		<lastname>Singh</lastname>
+		<cat1>5</cat1>
+		<cat2>7</cat2>
+		<fat>20</fat>
+		<total>32</total>
+	</student>
+</class>
