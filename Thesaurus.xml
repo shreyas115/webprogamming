@@ -1,0 +1,13 @@
+<?xml-stylesheet type = "text/xsl" href = "thesaurus.xsl"?>
+<class>
+	<thesaurus word="Abate"  synonyms="Moderate, decrease" antonyms="Aggravate"/>
+	<thesaurus word="Alleviate"  synonyms="Abate, relieve" antonyms="Aggravate, Enhance"/>
+	<thesaurus word="Boisterous"  synonyms="Clamorous, rowdy" antonyms="Placid, Calm"/>
+	<thesaurus word="Calculating"  synonyms="	Canny, Devious" antonyms="Artless, honest"/>
+	<thesaurus word="Demolish"  synonyms="Ruin, devastate" antonyms="Repair, construct"/>
+	<thesaurus word="Feeble"  synonyms="weak, frail" antonyms="Strong, Robust"/>
+	<thesaurus word="Guile"  synonyms="cunning, deceit" antonyms="Honesty, frankness"/>
+	<thesaurus word="Indifferent"  synonyms="Equitable, Haughty" antonyms="Partial, Biased"/>
+	<thesaurus word="Intrigue"  synonyms="scheme, conspiracy" antonyms="Candor, Sincerity"/>
+	<thesaurus word="Liberal"  synonyms="magnanimous, generous" antonyms="Stingy, malicious"/>
+</class>
